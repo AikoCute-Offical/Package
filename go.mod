@@ -1,3 +1,3 @@
-module Go-Package
+module GoPackage
 
 go 1.19
